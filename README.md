@@ -8,6 +8,7 @@
 
 
 📫 You can reach me by:
+
 #^ *[Email](mailto:meeran2resource@gmail.com?subject=Github%20)
 #^ *[Discord](https://discordapp.com/users/1329448029429956684)
 #^ *[Telegram](https://t.me/Miran_Os)
