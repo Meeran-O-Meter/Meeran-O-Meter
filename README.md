@@ -9,6 +9,9 @@
 
 
 📫 You can reach me by:
+<ul>
+  <li>[Email](mailto:meeran2resource@gmail.com?subject=Github%20)</li>
+</ul>
 
 #^ * [Email](mailto:meeran2resource@gmail.com?subject=Github%20)
 
