@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hey, I'm Meeran!
 
+-I design, develop and deploy real world projects along with random, super fun ones that came to me at 10pm. 
+
+-I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
+
+-I'm currently working on [my portfolio](https://portfolio-kappa-sepia-72.vercel.app/) and learning database logic.
+
+
+-You can reach me by [email](mailto:meeran2resource@gmail.com?subject=Github%20), [discord](https://discordapp.com/users/1329448029429956684), [telegram](https://t.me/Miran_Os), or the [contact page](https://portfolio-kappa-sepia-72.vercel.app/#contact) on my website!
 <!--
 **Meeran-O-Meter/Meeran-O-Meter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
