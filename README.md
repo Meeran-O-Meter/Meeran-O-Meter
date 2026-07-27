@@ -4,7 +4,7 @@
 
 💬 I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
 
-🤔 I'm currently working on [my portfolio](https://portfolio-kappa-sepia-72.vercel.app/), learning database logic, and moving to the netherlands because why not!
+🤔 I'm currently working on [my portfolio](https://portfolio-kappa-sepia-72.vercel.app/), learning database logic, and working on moving to the netherlands in the future
 
 
 
