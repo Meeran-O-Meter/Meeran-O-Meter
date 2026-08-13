@@ -1,6 +1,6 @@
 ## Hey, I'm Meeran!
 
-⚡ I design, develop and deploy real world projects along with random, super fun ones that came to me at 10pm. 
+⚡ I design, develop and deploy unique projects along with random, super fun ones that came to me at 10pm. 
 
 💬 I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
 
