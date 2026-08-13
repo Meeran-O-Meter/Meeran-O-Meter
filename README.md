@@ -4,7 +4,8 @@
 
 💬 I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
 
-🤔 I'm currently working on [my portfolio](https://portfolio-kappa-sepia-72.vercel.app/), learning database logic, and working on moving to the netherlands in the future
+🤔 I'm currently working towards expanding my woodworking and tech skills with <a href="https://hackclub
+com">hackclub 
 
 
 
