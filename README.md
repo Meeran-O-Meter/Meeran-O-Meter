@@ -4,7 +4,7 @@
 
 💬 I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
 
-🤔 I'm currently working towards expanding my woodworking and tech skills with <a href="https://hackclub
+🤔 I'm currently working towards expanding my woodworking and tech skills with <a href="https://hackclub.
 com">hackclub 
 
 
