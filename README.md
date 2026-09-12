@@ -1,15 +1,10 @@
-## Hey, I'm Meeran!
+## Yo! I'm Meeran
 
-⚡ I design, develop and deploy unique projects along with random, super fun ones that came to me at 10pm. 
+Web Dev, Hack Club Member and avid literature lover_
 
-💬 I love allegories, chess, and greek mythology, and try to apply their meanings to my life. 
+Violently supsceptible to coffee and mandarins, but I wouldn't say no to chocolate cookies and chips neither.
 
-🤔 I'm currently working towards expanding my woodworking and tech skills with <a href="https://hackclub.
-com">hackclub 
-
-
-
-📫 You can reach me by:
+You can reach me by:
 <ul>
   <li> <a href="mailto:meeran2resource@gmail.com?subject=Github%20">Email</a></li>
   <li> <a href="https://discordapp.com/users/1329448029429956684">Discord</a></li>
